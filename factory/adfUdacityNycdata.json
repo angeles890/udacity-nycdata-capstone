@@ -1,0 +1,9 @@
+{
+	"name": "adfUdacityNycdata",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "67868c63-1240-46a4-8d46-9e5aa01f9fc0",
+		"tenantId": "b31df1a5-b47f-433d-9251-5de2ace5dc32"
+	}
+}
